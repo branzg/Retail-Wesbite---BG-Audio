@@ -1,0 +1,321 @@
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\bguild_be\Dropbox\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\bguild_be\Desktop\rs\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\bguild_be\Desktop\rs - Copy (2)\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\BG\Dropbox\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\BG\Documents\RetailSiteB\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\RetailSite.dll.config
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\RetailSite.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\RetailSite.pdb
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\AjaxControlToolkit.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Antlr3.Runtime.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\EntityFramework.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\EntityFramework.SqlServer.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Newtonsoft.Json.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Owin.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\System.Web.Optimization.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\System.Web.Providers.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\WebGrease.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\EntityFramework.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\EntityFramework.SqlServer.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\System.Web.Optimization.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Antlr3.Runtime.pdb
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Newtonsoft.Json.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\System.Web.Providers.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.csprojResolveAssemblyReference.cache
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.dll
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.pdb
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.Migrations.InitialCreate.resources
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.csproj.GenerateResource.Cache
+C:\Users\BG\Documents\RetailSiteB - Copy (4)\RetailSite\RetailSite\obj\Debug\RetailSite.Migrations.InitialCreate1.resources

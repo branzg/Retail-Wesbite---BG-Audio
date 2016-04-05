@@ -1,0 +1,43 @@
+.category
+{
+    position: relative;
+    display: block;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    background-position: 9px 16px;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #EDEDDE;
+    padding: 10px 0;
+    transition: all 0.3s;
+}
+.category
+{
+    color: #000000;
+	font-weight: normal;
+
+}
+.category:hover
+{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.category:before {
+	font-family:'FontAwesome';
+	content:"\f101";
+	margin-right:5px;
+}
+.category:hover
+{
+    background: #0066CC;
+    padding-left: 15px;
+    color: #FFFFFF;
+}
+h4, .h4 {
+    font-size: 24px;
+	font-weight: bold;
+	font-style: italic;
+	
+	
+	
+}
